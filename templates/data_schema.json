@@ -1,0 +1,74 @@
+{
+  "name": "Organization name",
+  "address": "Organization address",
+  "date": "The date when this report was generated",
+  "period": "The period that use to correcting data",
+  "auditor": "Name of auditor",
+  "year1": "The first year of report",
+  "year2": "The second year of report",
+  "year3": "The last year of report",
+  "fuel": [
+    {
+      "name": "Diesel",
+      "unit": "lt",
+      "value1": "Value of year1",
+      "value2": "Value of year2",
+      "value3": "Value of year3"
+    },
+    {
+      "name": "Gasohol",
+      "unit": "lt",
+      "value1": "Value of year1",
+      "value2": "Value of year2",
+      "value3": "Value of year3"
+    }
+  ],
+  "electric": [
+    {
+      "name": "Electric",
+      "unit": "wt",
+      "value1": "Value of year1",
+      "value2": "Value of year2",
+      "value3": "Value of year3"
+    }
+  ],
+  "water": [
+    {
+      "name": "water",
+      "unit": "lt",
+      "value1": "Value of year1",
+      "value2": "Value of year2",
+      "value3": "Value of year3"
+    }
+  ],
+  "emissions": [
+    {
+      "name": "scope1",
+      "unit": "tonCO2",
+      "value1": "Value of year1",
+      "value2": "Value of year2",
+      "value3": "Value of year3"
+    },
+    {
+      "name": "scope2",
+      "unit": "tonCO2",
+      "value1": "Value of year1",
+      "value2": "Value of year2",
+      "value3": "Value of year3"
+    },
+    {
+      "name": "scope3",
+      "unit": "tonCO2",
+      "value1": "Value of year1",
+      "value2": "Value of year2",
+      "value3": "Value of year3"
+    },
+    {
+      "name": "Total GHG emission",
+      "unit": "tonCO2",
+      "value1": "Value of year1",
+      "value2": "Value of year2",
+      "value3": "Value of year3"
+    }
+  ]
+}
